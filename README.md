@@ -1,4 +1,7 @@
 ### Hi there 👋
+ 🔭 I’m currently working on web development 
+🌱 I’m currently learning javascript frameworks
+
 
 <!--
 **saikrishna8210/saikrishna8210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
