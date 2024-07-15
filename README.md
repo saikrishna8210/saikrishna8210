@@ -1,6 +1,6 @@
 ### Hi there 👋
- 🔭 I’m currently working on web development 
-🌱 I’m currently learning javascript frameworks
+ 🔭 I’m currently working on Salesforce developer
+🌱 I’m currently learning a Flows and Apex programming 
 
 
 <!--
